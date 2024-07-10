@@ -4,7 +4,7 @@
 A simple web-based barcode generator that allows users to generate and download barcodes.
 
 ## Demo
-You can try the Barcode Generator live at: [https://barcode-generators.netlify.app]([https://example.com/barcode-generator](https://barcode-generators.netlify.app))
+You can try the Barcode Generator live at: [https://barcode-generators.netlify.app](https://barcode-generators.netlify.app)
 
 ## Features
 - Generate barcodes using the `CODE128` format
