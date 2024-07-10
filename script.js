@@ -1,6 +1,8 @@
+// script.js
 function generateBarcode() {
-  // Get the text from the input field
+  // Get the text and type of barcode from the input fields
   const text = document.getElementById('barcodeText').value;
+  const type = document.getElementById('barcodeType').value;
 
   // Clear the previous barcode, if any
   document.getElementById('barcodeImageContainer').innerHTML = '';
@@ -10,7 +12,7 @@ function generateBarcode() {
 
   // Generate the barcode using JsBarcode library
   JsBarcode(canvas, text, {
-    format: 'CODE128',
+    format: type,
     displayValue: true, // Display the text beneath the barcode
     lineColor: "#000", // Set line color
     width: 2, // Set barcode width
