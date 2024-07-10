@@ -1,4 +1,3 @@
-Here's the GitHub code post with a full description for the Barcode Generator:
 
 # Barcode Generator
 
@@ -60,4 +59,4 @@ The JavaScript code handles the barcode generation and download functionality:
 To use the Barcode Generator, simply copy the HTML, CSS, and JavaScript code provided and save them in your project directory. You can then open the HTML file in a web browser to start using the application.
 
 ## Contributions
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open a new issue or submit a pull request on the [GitHub repository](https://github.com/your-username/barcode-generator).
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open a new issue or submit a pull request on the [GitHub repository](https://github.com/ademabdrei/barcode-generator).
